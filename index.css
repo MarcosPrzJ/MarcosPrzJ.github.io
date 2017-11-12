@@ -342,10 +342,10 @@ li.dropdown {
 	height:90%;
 }
 div.galleryTEXT {
-    margin: 5px;
-    border: 1px solid #ccc;
+    margin: 20px;
+    border: 10px solid #ccc;
     float: left;
-    width: 180px;
+    width: 200px;
 }
 
 div.galleryTEXT:hover {
